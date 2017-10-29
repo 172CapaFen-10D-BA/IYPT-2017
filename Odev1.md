@@ -10,7 +10,7 @@ Sınıf | Öğrenci İsmi  | Numara
 
 #  (Şişe Savaşı)
 ## Özet
-Grup olarak IYPT'nin sitesindeki problemlere baktık ve bize ilginç gelen bir tanesini seçtik. Seçtiğimiz problemde 2 cam şişe ve asitli bir içecek kullanılarak bir deney yapılıyordu. Şişeler çarpıştırıldı ve içecek sadece bir şişeden döküldü. Projemizdeki amacımız,bu şişelerdeki sıvının neden sadece bir şişeden döküldüğünü gözlemlemek ve açıklamak. Neden ikisinden birden dökülmüyor, bunun kullandığımız sıvıyla bir alakası var mı? İşte biz de bu soruların cevabını merak ettik ve deneyimize başlama kararı aldık.
+Grup olarak IYPT'nin sitesindeki problemlere baktık ve bize ilginç gelen bir tanesini seçtik. Seçtiğimiz problemde 2 cam şişe ve asitli bir içecek kullanılarak bir deney yapılıyordu. Şişeler çarpıştırıldı ve içecek sadece bir şişeden döküldü. Projemizdeki amacımız, bu şişelerdeki sıvının neden sadece bir şişeden döküldüğünü gözlemlemek ve açıklamak. Neden ikisinden birden dökülmüyor, bunun kullandığımız sıvıyla bir alakası var mı? İşte biz de bu soruların cevabını merak ettik ve deneyimize başlama kararı aldık.
 
 Başlangıçta -ve ardından gelen tüm denemelerde- içecekleri, şişelere eşit seviyede ve eşit sıcaklıkta koyuyoruz. Bunlar deneyimizdeki sabit değişkenlerimiz. Fakat bulduğumuz sonucun, projemizin amacını karşılaması için bilimum değişkenleri her denemede değiştirmemiz lazım. Bunlar da deneyimizdeki bağımsız değişkenler oluyor.
 
