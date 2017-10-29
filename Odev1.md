@@ -4,18 +4,19 @@ Aşağıdaki tabloya kendi sınıfınızı, öğrenci ismini ve numaranızı yaz
 
 Sınıf | Öğrenci İsmi  | Numara
 -------|----------------|--------
-11-D   | Ahmet Çalışkan | 412
-11-D   | Ceyda Cesaretli | 111
+10-D   | Berfuğ Abaklı | 494
+10-D   | Nazlı Ada Alışkan | 454
+10-D   | İlayda Guluf | 378
 
-#  (buraya proje başlığını yazınız)
+#  (Şişe Savaşı)
 ## Özet
-Buraya projenin özetini yazınız. Özet kısa ve anlaşılır olmalıdır.  Proje özeti yaklaşık 150-250 kelime arasında olmalıdır. Özeti okuyan, proje hakkında doğru bir fikre sahip olabilmelidir. Proje özetinde; projenin amacı ve kullanılacak yöntemler özetlenecektir. 
+Grup olarak IYPT'nin sitesindeki problemlere baktık ve bize ilginç gelen bir tanesini seçtik. Seçtiğimiz problemde 2 cam şişe ve asitli bir içecek kullanılarak bir deney yapılıyordu. Şişeler çarpıştırıldı ve içecek sadece bir şişeden döküldü. Projemizdeki amacımız,bu şişelerdeki sıvının neden sadece bir şişeden döküldüğünü gözlemlemek ve açıklamak. Neden ikisinden birden dökülmüyor, bunun kullandığımız sıvıyla bir alakası var mı? İşte biz de bu soruların cevabını merak ettik ve deneyimize başlama kararı aldık.
+Başlangıçta -ve ardından gelen tüm denemelerde- içecekleri, şişelere eşit seviyede ve eşit sıcaklıkta koyuyoruz. Bunlar deneyimizdeki sabit değişkenlerimiz. Fakat bulduğumuz sonucun, projemizin amacını karşılaması için bilimum değişkenleri her denemede değiştirmemiz lazım. Bunlar da deneyimizdeki bağımsız değişkenler oluyor.
+Kesin bir sonuca varmak için aynı deneyi farklı şekillerde yapıyoruz. Bağımsız değişkenlere örnek vermemiz gerekirse, ilk seferde şişeleri yan yüzeyleri denk gelecek şekilde birbirine çarpıştırıyorsak; ikinci seferde bunu, şişeler alt alta getirerek yapmalıyız. Bu konuda örnekleri çoğaltabiliriz. İçecek olarak kola, saf su veya başka seçenekler kullanılabilir.
+Deneyi bitirip amacımıza ulaşmamız için daha zaman var, fakat göründüğü kadarıyla 
 
 ## Kaynakçalar  
-Aşağıda kaynakçalara yer verilecektir. Konunuzla ilgili en az 3 tane referans bulunuz. Bulduğunuz  kaynakçaları (25MB'den az olmak kaydıyla ve video hariç) github hesabınıza kaydediniz. Github hesabınıza belgeleri nasıl yükleyeceğiniz öğrenmek için [buraya bakınız.](https://help.github.com/articles/adding-a-file-to-a-repository/). Kaynakçalar belli bir düzen içinde yazılacaktır. Örnekler için [buraya](http://www.tubitak.gov.tr/tr/duyuru/bibliyografik-verilerin-duzenlenmesi) bakabilirsiniz. Aşağıdaki referans örneklerini kendi bulduğunuz referanslarla değiştiriniz. IYPT ile ilgili kaynakçaları bulmak için [buraya](http://kit.ilyam.org/) bakabilirsiniz. Ya da daha önce çözülmüş IYPT sorularının kaynakçalarını kullanabilirsiniz. 
-
- 1. Huth, E. J. 1986. “Guidelines on authorship of medical papers”, Annals of Internal Medicine, 104, 269-274.
- 2. Clark, C. “Physicists Crack Another Piece of The Glass Puzzle”. R&D Magazine.
-http://www.rdmag.com/news/2012/10/physicists-crack-another-piece-glass-p...
-Son erişim tarihi: 15 Aralık 2012.
+ 1. Bottle battle (Alexander Shugaev, Belarus, IYPT slides, 2002)
+ http://archive.iypt.org/solutions/
+ 
 
